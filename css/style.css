@@ -1,0 +1,19 @@
+#content {
+    position: relative;
+}
+
+#defaultCanvas0 {
+    position: absolute;
+    z-index: 1;
+}
+
+#youtube {
+    position: absolute;
+    /* z-index: 1; */
+}
+
+#hint {
+    /* display: block; */
+    padding: 10px 100px;
+    float: right;
+}
