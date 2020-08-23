@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+
+#content {
+    position: relative;
+    padding: 10px 100px;
+}
+
+#defaultCanvas0 {
+    position: absolute;
+    z-index: 0;
+}
+
+#logo {
+    display: block;
+    margin: 10px auto;
+    width: 30%;
+    height: 30%;
+}
+
+#youtube {
+    position: absolute;
+    z-index: 1;
+}
+
+#hint {
+    margin: 100px 200px;
+    float: right;
+}
+
+.active {
+    position: absolute;
+    z-index: 1;
+}
